@@ -27,4 +27,4 @@ var docInfo = {
     ]
 }
 
-pdfMake.createPdf(docInfo).download('CMR.pdf')
+// pdfMake.createPdf(docInfo).download('CMR.pdf')
